@@ -11,7 +11,7 @@
   - Swift 5.1+
   
   
-  ## How to download and render over the give ImageView
+  ## How to download and render over the given ImageView
   
   Below api will download the image from the give URL and place it over the given imageView.
   
