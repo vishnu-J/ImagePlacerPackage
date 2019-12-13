@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/size/vishnu-J/ImagePlacer/Image_Loading_Library/Image_Loading_Library.xcodeproj/project.pbxproj) ![](https://img.shields.io/badge/ImagePlacer-will%20download%20image%20from%20Url%20and%20render%20it%20over%20the%20given%20the%20imageView-orange) ![](https://img.shields.io/badge/ImagePlacer-will%20supporting%20caching-brightgreen)
 
- Image Placer is a library to download the image from the URL and render the image over the given UIImageView or return the image and it supports caching.
+ ImagePlacerPackage is an swift package manager which is useful to download the image from the URL and render the downloaded image over the given UIImageView or return the image  according to the api and also it supports different levels of caching.
  
  
  ## Requirements
