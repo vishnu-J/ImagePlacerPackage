@@ -6,9 +6,9 @@
  
  
  ## Requirements
-  - iOS 10.0+
-  - XCode 10.1+
-  - Swift 4+
+  - iOS 11+
+  - XCode 11+
+  - Swift 5.1+
   
   
   ## How to download and render over the give ImageView
